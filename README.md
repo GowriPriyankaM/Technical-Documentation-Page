@@ -4,6 +4,11 @@
 
 I have built this project using **HTML** and **CSS**, as a part of my Responsive Web Design certification in FreeCodeCamp curriculum. Technical Documentation Page is a Responsive webpage that consists of JavaScript documentation and a navigation menu for seamless navigation throughout the webpage.
 
+## Preview :
+
+*Here's a Preview of Technical Documentation Page*
+
+
 ## Contributions :
 
 If you want to contribute to the project, follow the below steps.
