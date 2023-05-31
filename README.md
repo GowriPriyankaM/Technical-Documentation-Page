@@ -8,7 +8,7 @@ I have built this project using **HTML** and **CSS**, as a part of my Responsive
 
 *Here's a Preview of Technical Documentation Page*
 
-![Preview](assets/screenshot.png)
+![Preview](https://github.com/GowriPriyankaM/Technical-Documentation-Page/blob/main/assets/JS%20Documentation%20Preview%20(1).gif)
 
 ## Contributions :
 
