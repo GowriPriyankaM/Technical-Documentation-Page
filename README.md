@@ -68,7 +68,7 @@ If you want to contribute to the project, follow the below steps.
 
       Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
-      _Congratulations! You have successfully contributed to the project._
+      *Congratulations! You have successfully contributed to the project.*
       
 ## License :
 
