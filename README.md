@@ -10,6 +10,8 @@ I have built this project using **HTML** and **CSS**, as a part of my Responsive
 
 ![Preview](https://github.com/GowriPriyankaM/Technical-Documentation-Page/blob/main/assets/JS%20Documentation%20Preview%20(1).gif)
 
+Click here to see the **[Live Preview](https://codepen.io/GowriPriyankaM/full/qBQaGqw)** of this page.
+
 ## Contributions :
 
 If you want to contribute to the project, follow the below steps.
