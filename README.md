@@ -14,13 +14,11 @@ Click here to see the **[Live Preview](https://codepen.io/GowriPriyankaM/full/qB
 
 ## Contributions :
 
-If you want to contribute to the project, follow the below steps.
+If you want to contribute to this project, follow the below steps.
 
-1. **Fork the Repository :** On the project's GitHub page, click the "Fork" button at the top right corner. This creates a copy of the project under your own GitHub account.
+1. **Fork the Repository :** Click on the "Fork" button at the top right corner of this page. This creates a copy of the project under your own GitHub account.
 
-2. **Clone the Repository :** Once you've forked the repository, you'll want to have a local copy of it on your machine. 
- 
-      To do this, open a terminal or command prompt, navigate to your desired directory, and run the following command.
+2. **Clone the Repository :** Once you've forked the repository, open a terminal or command prompt, navigate to your desired directory, and run the following command.
  
       ```
       git clone https://github.com/username/Technical-Documentation-Page.git
@@ -38,7 +36,7 @@ If you want to contribute to the project, follow the below steps.
       
       Replace "your-branch-name" with a descriptive name for your branch.
 
-4. **Make Changes :** Open the project in your preferred text editor or IDE and make the necessary changes or additions to the code, documentation, or other project files.
+4. **Make Changes :** Open the project in your preferred text editor or IDE and make the necessary changes or additions to the project files.
 
 5. **Commit Changes :** After making your changes, save the files and go back to the terminal or command prompt. 
 
@@ -67,8 +65,6 @@ If you want to contribute to the project, follow the below steps.
 7. **Create a Pull Request :** Once your changes are pushed to your forked repository on GitHub, You should see a message suggesting you create a pull request. 
 
       Click on the "Compare & pull request" button and provide a clear title and description for your pull request, explaining the changes you've made and submit it.
-
-      Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
       *Congratulations! You have successfully contributed to the project.*
       
