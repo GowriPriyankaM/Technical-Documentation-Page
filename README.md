@@ -2,7 +2,7 @@
 
 ## Description :
 
-I have built this project using **HTML** and **CSS**, as a part of my Responsive Web Design certification in FreeCodeCamp curriculum. Technical Documentation Page is a Responsive webpage that consists of JavaScript documentation and a navigation menu on the left, for seamless navigation throughout the webpage.
+I have built this project using **HTML** and **CSS**, as a part of my Responsive Web Design certification in FreeCodeCamp curriculum. Technical Documentation Page is a responsive webpage that consists of JavaScript documentation with a navigation menu on the left, for seamless navigation throughout the webpage.
 
 ## Preview :
 
